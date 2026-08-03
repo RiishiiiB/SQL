@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SQL Practice 🚀
 
 Welcome to my SQL learning repository.
@@ -39,3 +40,7 @@ This repository documents my SQL learning journey through LeetCode and other cod
 | Advanced SQL | 0 |
 
 **Total Problems Solved:** 1
+=======
+# SQL
+A structured collection of SQL queries, database concepts, and problem-solving exercises covering everything from SQL fundamentals to advanced topics for interview preparation and Data Analytics.
+>>>>>>> 2b03d168384aeaca12cc2050f68fe6148143cd85
